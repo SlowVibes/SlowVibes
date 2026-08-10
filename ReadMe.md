@@ -1,6 +1,6 @@
 # Hey, I'm Gergő Strobán👋
 
-I'm a software developer based in Hungary, currently focused on rebuilding and expanding my development skills through hands-on projects, and eventually land a cool job.
+I'm a software developer based in Tatabánya, Hungary. Currently focused on rebuilding and expanding my development skills through hands-on projects, and eventually land a job in the industry.
 
 I enjoy turning ideas into working applications, learning how things work under the hood, and gradually improving my code through testing and refactoring.
 
