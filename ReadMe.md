@@ -8,28 +8,7 @@ I enjoy turning ideas into working applications, learning how things work under 
 
 ## ⚔️ Currently building
 
-### RPG Inventory System
-
-A TypeScript-based RPG project that started as a small inventory system and gradually evolved into an interactive browser game.
-
-The project includes:
-
-- Object-oriented game architecture
-- Inventory & equipment management
-- Item system with weapons, armor, rings and potions
-- Shop and currency system
-- Turn-based combat
-- Multiple enemies and boss encounter
-- Character progression
-- Unit tests
-- Animated UI and parallax environments
-- GitHub Pages deployment
-
-🎮 **Play it here:**  
-https://slowvibes.github.io/RPG-inventory-system/
-
-💻 **Repository:**  
-https://github.com/SlowVibes/RPG-inventory-system
+### -
 
 ---
 
